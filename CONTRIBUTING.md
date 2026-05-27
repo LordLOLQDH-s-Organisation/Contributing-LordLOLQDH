@@ -47,6 +47,12 @@ Die Nachricht sollte enthalten:
 6. Ob du bereits Erfahrung mit Coding hast
 7. Links zu eigenen Projekten (optional)
 
+## Schnellbewerbung
+
+Nutze die vorbereitete Mail-Vorlage:
+
+[MAIL_TEMPLATE.md](./MAIL_TEMPLATE.md)
+
 ## Was Collaborator machen dürfen
 
 Collaborator können je nach Rolle:
