@@ -1,4 +1,4 @@
-# Chatgpt-playground-l
+# Contributing LordLOLQDH
 
 Willkommen beim offiziellen Chatgpt-playground-l Repository.
 
