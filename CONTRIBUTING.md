@@ -1,11 +1,3 @@
-# Contributing LordLOLQDH
-
-Willkommen beim offiziellen Chatgpt-playground-l Repository.
-
-Dieses Projekt dient als Playground für verschiedene Ideen rund um KI, Coding, Experimente, Browser-Games, Webentwicklung und zukünftige Features. Hier werden neue Systeme getestet, neue Ideen ausprobiert und gemeinsam Projekte entwickelt.
-
----
-
 # Collaborator werden
 
 Wir suchen aktive und motivierte Leute, die beim Projekt mithelfen möchten.
